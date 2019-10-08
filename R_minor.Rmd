@@ -1,0 +1,34 @@
+---
+title: "How to Use R minor"
+author: "Genelle Denzin"
+date: "10/8/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R minor
+
+R minor is the Ohio Balance of State CoC's public-facing performance reporting system. Its visitors might include users, program directors, executive directors, news media, interested residents of a community.
+
+## A Work in Progress
+
+R minor was created as a replacement for the custom reporting system our CoC has been using inside our HMIS. That reporting tool is becoming obsolete and will not be usable in the near future so it was necessary to have a way to present meaningful data that is reliable and accessible. Many of the old reports have been replaced, though there are still more to rewrite in R minor.
+
+R minor was begun in May of 2019 officially, using the programming language and environment called R. We landed on the name R minor through a COHHIO-wide vote. It seemed a good mix of the R as in the programming language and music terminology that sounds nice.
+
+## What is R minor elevated?
+
+While R minor is great for showing aggregate data, our users are accustomed to being able to verify any data we publish at the client level. Since we would not want to put client-level data on a public-facing site, we had to create R minor elevated, which requires a password.
+
+For each tab on R minor, there is a corresponding tab on R minor elevated with client-level data that shows how the numbers were arrived at.
+
+## What Kind of Data is on R minor?
+
+* Provider Dashboard
+* CoC Dashnoard (eventually)
+* Bed and Unit Utilization
+* Quarterly Performance Report
+* CoC Project Evaluation (eventually)
