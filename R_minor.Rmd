@@ -32,3 +32,24 @@ For each tab on R minor, there is a corresponding tab on R minor elevated with c
 * Bed and Unit Utilization
 * Quarterly Performance Report
 * CoC Project Evaluation (eventually)
+
+## Provider Dashboard
+
+The purpose of the Provider Dashboard is to give Agency Directors or other interested parties a quick overview about the current state of their project(s).
+
+Depending on the project type, different infoboxes will appear. Simply choose your project from the dropdown list and you should see something helpful. 
+
+Please note: This is a work in progress. More visualizations will be added and we highly encourage users to send ideas about what would be helpful to see here.
+
+## CoC Dashboard
+
+This does not exist yet, but eventually, this will be where we show some overall aggregate data about the current state of the CoC.
+
+## Bed and Unit Utilization
+
+Users of the site can explore any project's Bed and Unit Utilization over a year's time. Explanations about methodology can be found below the plot.
+
+## Quarterly Performance Report
+
+
+
